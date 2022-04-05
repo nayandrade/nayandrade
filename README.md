@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🙋‍♀️ My name is Nayara
-- 🔭 I’m an Electrical technicians and a Web developer under construction
-- 😄 Pronouns: she / her
+- 🙋‍♀️ My name is Nayara;
+- 🔭 I’m an Electrical technicians and a Web developer under construction;
+- 😄 Pronouns: she / her;
 
 <div align="center">
   <a href="https://github.com/nayandrade">

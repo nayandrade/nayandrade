@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🙋‍♀️ My name is Nayara;
 - 🔭 I’m an Electrical technicians and a Web developer under construction;
 - 😄 Pronouns: she / her;
+- ⚡ Fun fact: I love pets and adopted 3 cats and a dog, their names are Kiki, Amy, Zureia and Adam.
 
 <div align="center">
   <a href="https://github.com/nayandrade">
